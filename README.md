@@ -1,12 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm Priyank</h1>
+<h3 align="center">Email: priyankpatel9413@gmail.com</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<h5><a href="www.linkedin.com/in/priyank-patel-403aa2221" target="blank">Contect me on Linked In</a></h5>
-<h5><a href="priyankpatel9413@gmail.com" target="blank">Contect me on Mail</a></h5>
+<a href="https://linkedin.com/in/priyank patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyank patel" height="30" width="40" /></a>
+<a href="https://medium.com/@priyank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@priyank" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/priyankkumar_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priyankkumar_p" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jacksparrow_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jacksparrow_7" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <h4>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
