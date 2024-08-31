@@ -2,7 +2,7 @@
 # Hello, I'm Priyank Patel 👋
 
 ## About Me:
-- 🎓 Currently pursuing a Bachelor's degree at the School Of Engineering and Applied Science, Ahmedabad University.
+- 🎓 Currently pursuing a Bachelor's degree in Computer Science And Engineering at School Of Engineering and Applied Science, Ahmedabad University.
 - 🔍 I'm looking for opportunities in Software Development, with a strong interest in backend technologies.
 - 📫 How to reach me: priyankpatel10113@gmail.com.
 
